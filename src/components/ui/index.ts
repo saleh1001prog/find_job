@@ -33,6 +33,9 @@ export {
   validationRules
 } from './enhanced-form';
 
+// File Upload (commented out - can be enabled when needed)
+// export { default as EnhancedFileUpload } from './enhanced-file-upload';
+
 // Accessibility Helpers
 export {
   SkipToMain,
